@@ -15,6 +15,12 @@ import windowsIcon from "./images/windows.svg"
 import switchIcon from "./images/switch.svg"
 import xboxIcon from "./images/xbox.svg"
 
+//Work Images
+import workImage1 from "./images/boddle.png"
+import workImage2 from "./images/realms.png"
+import workImage3 from "./images/protosphere.png"
+import workImage4 from "./images/eboh.jpg"
+
 // Social Icon
 import githubIcon from "./images/github.svg"
 import codepenIcon from "./images/codepen.svg"
@@ -53,8 +59,9 @@ export default {
         "Boddle is an educational game that delivers learning materials through interactive 3D gameplay; keeping students engaged & motivated to practice and review! ", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
+      workImage1,
       //"https://media.bizj.us/view/img/11100150/medium-boddle-port*1200xx1549-871-0-48.png",
-      "/images/work/boddle.png",
+      //"/images/work/boddle.png",
         //"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
       url: "https://www.boddlelearning.com/",
@@ -66,7 +73,8 @@ export default {
         "Realms of Light is a Massive Multiplayer Online Real Time Strategy game revolving around the creation, development, control, and conquest of player controlled villages and contested locations.A blockchain based MMO Real Time Strategy Kingdom Builder using Light to reward winning players with a regular real-world income stream.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-      "/images/work/realms.png",
+      workImage2,
+      //"/images/work/realms.png",
       //"http://realmsoflight.wpengine.com/wp-content/uploads/2019/04/logo-1.png",
         //"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
@@ -79,7 +87,8 @@ export default {
         "ProtoSphere is business collaboration software that allows your organization to quickly create a 3D immersive environment optimized for business applications such as e-learning, virtual meetings and virtual conference events, scientific research and development, and sales and manufacturing collaborations involving rich data visualization. ProtoSphere allows global organizations to effectively bring together their best people and relevant information to make optimal business decisions, from anywhere, at anytime.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-      "/images/work/protosphere.png",
+      workImage3,
+      //"/images/work/protosphere.png",
       //"https://static.wixstatic.com/media/f93f36_21baaacbf75c46cd9bffcba951dba367.jpg/v1/fill/w_253,h_130,al_c,lg_1,q_80,usm_1.20_1.00_0.01/f93f36_21baaacbf75c46cd9bffcba951dba367.webp",
         //"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
@@ -92,7 +101,8 @@ export default {
         "Epic Battles of History is a free-to-play online digital collectible card game where players face off against each other while harnessing the powers of legendary historical figures and fictional characters.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-      "/images/work/eboh.jpg",
+      workImage4,
+      //"/images/work/eboh.jpg",
        // "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
       url: "https://store.steampowered.com/app/718750/Epic_Battles_of_History/",
