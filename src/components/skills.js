@@ -9,12 +9,13 @@ const Skills = () => {
           <h1>Skills</h1>
           <div className="skills-grid">
             {data.skills.map(skill => (
-              <div className="skill" key={skill.id}>
-                <img src={skill.img} alt="css"></img>
+              <div className="skill" style={{height: '80px' ,margin: '10px 0px 10px 0px '}} key={skill.id}>
+                <img style={{height: '100%'}} src={skill.img} alt="css"></img>
                 <p>{skill.para}</p>
               </div>
             ))}
           </div>
+          
         </div>
       </div>
     </div>
