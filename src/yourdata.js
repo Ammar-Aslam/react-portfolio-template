@@ -20,6 +20,7 @@ import workImage1 from "./images/boddle.png"
 import workImage2 from "./images/realms.png"
 import workImage3 from "./images/protosphere.png"
 import workImage4 from "./images/eboh.jpg"
+import workImage5 from "./images/xana.jpg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -106,6 +107,19 @@ export default {
        // "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
       url: "https://store.steampowered.com/app/718750/Epic_Battles_of_History/",
+    },
+    {
+      id: 5, //DO NOT CHANGE THIS (Please)😅
+      title: "XANA", //Project Title - Add Your Project Title Here
+      para:
+        "XANA, a cross reality platform allows users to engross themselves in a new world full of virtual entertainment. XANA's latest virtual reality technology turns visionary dreams of users into a virtual gathering of developers from all around the globe. Now access and create an open world to do anything from virtual events for fun to profitable virtual business and turn your dreams into reality.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+      workImage5,
+      //"/images/work/eboh.jpg",
+       // "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      //Project URL - Add Your Project Url Here
+      url: "https://www.xana.net/home",
     },
     /*{
       id: 5, //DO NOT CHANGE THIS (Please)😅
