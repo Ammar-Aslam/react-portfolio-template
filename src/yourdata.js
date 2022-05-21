@@ -22,6 +22,8 @@ import workImage3 from "./images/protosphere.png"
 import workImage4 from "./images/eboh.jpg"
 import workImage5 from "./images/xana.jpg"
 import workImage6 from "./images/beeJam.jpg"
+import workImage7 from "./images/eyesync.jpg"
+import workImage8 from "./images/angry_frogs.jpg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -135,6 +137,33 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "https://play.google.com/store/apps/details?id=com.honeybeelabs.beejam&hl=en&gl=US",
     },
+    {
+      id: 7, //DO NOT CHANGE THIS (Please)😅
+      title: "SyncThink (VR/AR)", //Project Title - Add Your Project Title Here
+      para:
+        "Next Gen Neurotechnology. The digital health platform for assessing brain health, delivering therapy, and optimizing performance ", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+      workImage7,
+      //"/images/work/eboh.jpg",
+       // "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      //Project URL - Add Your Project Url Here
+      url: "https://syncthink.com/",
+    },
+    {
+      id: 8, //DO NOT CHANGE THIS (Please)😅
+      title: "Angry Frogs", //Project Title - Add Your Project Title Here
+      para:
+        "Angry Frogs Famiglia NFT is a strategy game with a metaverse gamification concept on the Ethereum blockchain.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+      workImage8,
+      //"/images/work/eboh.jpg",
+       // "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      //Project URL - Add Your Project Url Here
+      url: "https://angryfrogs.io/",
+    },
+
     /*{
       id: 5, //DO NOT CHANGE THIS (Please)😅
       title: "Project Five", //Project Title - Add Your Project Title Here
