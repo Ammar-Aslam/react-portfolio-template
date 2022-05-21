@@ -23,7 +23,7 @@ import workImage4 from "./images/eboh.jpg"
 import workImage5 from "./images/xana.jpg"
 import workImage6 from "./images/beeJam.jpg"
 import workImage7 from "./images/eyesync.jpg"
-import workImage8 from "./images/angry_frogs.jpg"
+import workImage8 from "./images/angry_frogs.jpeg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
