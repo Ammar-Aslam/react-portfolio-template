@@ -120,7 +120,7 @@ export default {
       //"/images/work/eboh.jpg",
        // "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
-      url: "https://www.xana.net/home",
+      url: "https://www.xana.net/",
     },
     {
       id: 6, //DO NOT CHANGE THIS (Please)😅
